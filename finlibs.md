@@ -1,9 +1,16 @@
-# Indicators
-* pandas_talib - A Python Pandas implementation of technical analysis indicators.
-* TA-Lib - https://github.com/mrjbq7/ta-lib
-* Tulipy - Financial Technical Analysis Indicator Library (Python bindings for tulipindicators) https://tulipindicators.org/list
-* zipline – Zipline is a Pythonic algorithmic trading library. It is an event-driven system that supports both backtesting and live trading. https://www.zipline.io/
-* Technical Analysis Library using Pandas (Python) https://github.com/bukosabino/ta
+# Python Indicators
+* pandas_talib - библиотека с реализацией технических индикаторов. 
+*373 
+(https://github.com/femtotrader/pandas_talib)
+* Tulipy - библиотека функций для технического анализа данных финансовых временных рядов. 
+*141
+https://github.com/cirla/tulipy
+* Zipline - это библиотека алгоритмического трейдинга на Python. Это управляемая событиями система, которая поддерживает тестирование на истории и торговлю в реальном времени. 
+*10,1k
+https://github.com/quantopian/zipline
+* Technical Analysis Library in Python - Это библиотека технического анализа для наборов данных финансовых временных рядов (открытый, закрытый, высокий, низкий, объемный). Она построен на библиотеке Pandas.
+*707
+https://github.com/bukosabino/ta
 
 Source - https://github.com/wilsonfreitas/awesome-quant
 
