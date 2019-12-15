@@ -13,6 +13,7 @@ https://github.com/quantopian/zipline
 https://github.com/bukosabino/ta
 
 * BackTrader - библиотека для бэктестинга и лайв трейдинга, но требует загрузки своих данных.
+*3.1
 
 
 Source - https://github.com/wilsonfreitas/awesome-quant
